@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
 <h3 align="center">I build what you aspire.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://www.ecomsolver.com/service/full-stack-development/](https://www.ecomsolver.com/wp-content/uploads/2020/07/How-to-become-a-Full-Stack-Web-Developer-451x300.png)">
+<img align="right" alt="Coding" width="400" src="https://www.ecomsolver.com/service/full-stack-development/](https://www.ecomsolver.com/wp-content/uploads/2020/07/How-to-become-a-Full-Stack-Web-Developer-451x300.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavgptaa&label=Profile%20views&color=0e75b6&style=flat" alt="arnavgptaa" /> </p>
