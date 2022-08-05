@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arnavgpta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1NG3x2OGqvft7q9G5CA6y_75oCn2oDNIl?usp=sharing](https://drive.google.com/drive/folders/1NG3x2OGqvft7q9G5CA6y_75oCn2oDNIl?usp=sharing)
+- 📄 My Resume [https://bit.ly/3zZHYGd](https://bit.ly/3zZHYGd)
 
 - ⚡ Fun fact **I can suggest you innovative ideas.**
 
