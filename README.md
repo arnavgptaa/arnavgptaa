@@ -1,4 +1,4 @@
-[MasterHead](banner.png)
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
 <h3 align="center">I build what you aspire.</h3>
 
